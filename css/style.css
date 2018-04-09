@@ -94,7 +94,7 @@ a {
     margin: 30px;
     padding: 30px;
     line-height: 25px;
-    box-shadow: 2px 2px 2px 2px rgba(148, 148, 148, 0.5);
+    box-shadow: 1px 1px 1px 1px rgba(148, 148, 148, 0.5);
 }
 
 .banner h1 {
