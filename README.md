@@ -1,6 +1,6 @@
 # blog-template
 
-Um template de blog com Flexbox CSS
+A blog template with Flexbox CSS
 
 ## 1. Screenshots
 
